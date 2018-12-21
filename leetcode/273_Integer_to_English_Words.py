@@ -86,7 +86,6 @@ class Solution(object):
         :rtype: str
         """
         s_num = str(num)
-        length = len(s_num)
         index = 0
         s = []
         while s_num:
