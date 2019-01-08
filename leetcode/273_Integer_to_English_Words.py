@@ -6,7 +6,6 @@ email: diqiuzhuanzhuan@gmail.com
 
 """
 
-
 class Solution(object):
     _base = {
         "1": "One",
